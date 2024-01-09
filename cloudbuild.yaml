@@ -1,4 +1,4 @@
    steps:
-   - name: golang
+   - name: golang-test2
      script: go run quickstart-automate/main.go
    
